@@ -16,9 +16,19 @@
   `npm install` 
 
 - Run the application 
-
-`json-server --watch db.json`
-
-- run the following command in the new terminal
   
   `ng serve`
+
+- Or clone the repository
+  `git clone https://github.com/sudarshankapali/Angular.git`
+
+- Run the application
+  - Open terminal and run the following commands
+
+    `npm install`
+    
+    `json-server --watch db.json`
+    
+  - Open new terminal and run
+  
+    `ng serve`
