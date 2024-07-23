@@ -17,4 +17,8 @@
 
 - Run the application 
 
+`json-server --watch db.json`
+
+- run the following command in the new terminal
+  
   `ng serve`
